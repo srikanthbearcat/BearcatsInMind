@@ -6,5 +6,7 @@
 *	Secured app with a login screen to protect user data – used ios Keychain
 
 # Technologies  & tools:
-Swift 2.3, 
-Xcode 7, CoreData Framework
+* Swift 2.3
+* Xcode 7
+* CoreData Framework
+* iOS KeyChain
